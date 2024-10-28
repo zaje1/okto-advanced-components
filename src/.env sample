@@ -1,0 +1,5 @@
+REACT_APP_POLYGON_MAINNET_URL='https://rpc.ankr.com/polygon'
+REACT_APP_BASE_MAINNET_URL='https://rpc.ankr.com/base'
+REACT_APP_POLYGON_AMOY_TESTNET_URL='https://rpc.ankr.com/polygon_amoy'
+
+REACT_APP_GOOGLE_CLIENT_ID= ""
